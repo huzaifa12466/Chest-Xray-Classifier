@@ -116,11 +116,11 @@ Epoch [10/10] | Train Loss: 0.1826 | Val Loss: 0.3048 | Val Acc: 88.14% | LR: 0.
 
 #### Loss Curve
 
-![Loss Curve](result/loss_curve.png)
+![Loss Curve](results/loss_curve.png)
 
 #### Validation Accuracy Curve
 
-![Validation Accuracy](result/val_accuracy.png)
+![Validation Accuracy](results/val_accuracy.png)
 
 ---
 
